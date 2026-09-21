@@ -121,7 +121,7 @@ Created by [Shiivam Sharma](https://github.com/0912shivam)
 
 ## 🚀 Try It Live
 
-(gen-ai-assistant.vercel.app)
+gen-ai-assistant.vercel.app/
 
 ---
 
